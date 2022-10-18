@@ -2,3 +2,5 @@
 venv
 .ipynb_checkpoints
 **/__pycache__
+msa_env
+msa_env/
