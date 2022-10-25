@@ -4,3 +4,13 @@ venv
 **/__pycache__
 msa_env
 msa_env/
+
+**/feature_extractor/
+**/model_index.json
+model_index.json
+**/scheduler/
+**/tokenizer/
+**/vae/
+**/safety_checker/
+**/text_encoder/
+**/unet/
