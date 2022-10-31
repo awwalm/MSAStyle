@@ -1,4 +1,6 @@
 # Images for training a Stable Diffusion Textual Inversion model
+...
+
 ![airplane ntx](https://user-images.githubusercontent.com/67423428/195778110-03865cf0-91c9-4e4f-931c-d2bf096389ac.png)
 ![airplane](https://user-images.githubusercontent.com/67423428/195778120-57516355-25c5-4e01-bddf-15554f8440aa.png)
 ![attack of the clones](https://user-images.githubusercontent.com/67423428/195778125-873353e9-413a-44a3-9b93-fb8d34a445f5.png)
