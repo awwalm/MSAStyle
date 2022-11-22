@@ -17,4 +17,5 @@ Here is the new concept you will be able to use as a `style`:
 ![<msa-style> 9](https://huggingface.co/sd-concepts-library/my-story-animated/resolve/main/concept_images/2.jpeg)
 ![<msa-style> 10](https://huggingface.co/sd-concepts-library/my-story-animated/resolve/main/concept_images/8.jpeg)
 ![<msa-style> 11](https://huggingface.co/sd-concepts-library/my-story-animated/resolve/main/concept_images/5.jpeg)
+![<msa-style> 12](https://huggingface.co/sd-concepts-library/my-story-animated/resolve/main/concept_images/.ipynb_checkpoints)
 
